@@ -9,7 +9,10 @@
 npm run dev
 
 # Limpar o Projeto 
-co
+
+# Instalando as dependências de rotas
+
+ npm install react-router-dom
 
 
 
